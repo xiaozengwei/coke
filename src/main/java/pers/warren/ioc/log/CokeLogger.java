@@ -11,6 +11,7 @@ public interface CokeLogger {
 
     /**
      * 获取日志实现
+     * log
      */
     Logger getLogger();
 
